@@ -90,5 +90,5 @@
 이 프로젝트는 데이터 기반 사고와 실전 분석 역량을 키우기 위한 실습 중심으로 진행했습니다.  
 실제 소비 데이터를 통해 문제를 정의하고, 분석하고, 비즈니스 전략으로 연결하는 전 과정을 경험했습니다.  
 
-📫 연락: [chris123ag@naver.com] [010-9491-0965]
-🔗 GitHub: [https://github.com/kwon-sungjae]
+- 📫 연락: [chris123ag@naver.com] [010-9491-0965]
+- 🔗 GitHub: [https://github.com/kwon-sungjae]
